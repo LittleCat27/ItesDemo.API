@@ -5,6 +5,7 @@ C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\ItesDemo.
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\ItesDemo.API.runtimeconfig.json
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\ItesDemo.API.dll
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\ItesDemo.API.pdb
+C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -64,5 +65,3 @@ C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\obj\Debug\net6.0\refint\It
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\obj\Debug\net6.0\ItesDemo.API.pdb
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\obj\Debug\net6.0\ItesDemo.API.genruntimeconfig.cache
 C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\obj\Debug\net6.0\ref\ItesDemo.API.dll
-C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\Humanizer.dll
-C:\Users\Gashe\source\repos\ItesDemo.API\ItesDemo.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
